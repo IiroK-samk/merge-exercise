@@ -1,1 +1,1 @@
-# same-very-new-merging-exercise
+# very-new-merging-exercise
