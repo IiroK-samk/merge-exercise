@@ -1,1 +1,1 @@
-# merge-exercise
+# merging-exercise
